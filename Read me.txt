@@ -1,0 +1,18 @@
+You will need this : 
+https://www.gta5-mods.com/vehicles/wwii-airplanes-pack-add-on
+
+
+go to : mods/update/x64/dlcpacks/spitfire/dlc.rf/x64/levels/gta/vehicles/vehicles.rpf/spitfire.ytd 
+And replace 1 to 1 all textures i give to you (only begin at "spit_sign")
+
+
+Voilà mon modéle ! Il est adapté d'un modèle de type Morane-Saulnier; avion de la 2nd guerre mondial, n'ayant pas moyen de trouver ce modéle je l'ai donc remplacé par le modèle ci contre qui s'avère être un Supermarine Spitfire MK.IIB avion anglais
+Amusez- bien !
+---------------------------------------------------------------
+
+That's my adaptation! It is adapted from a Morane-Saulnier model; Plane of the 2nd World War, having no way to find this model I replaced it by the model opposite which turns out to be a Supermarine Spitfire MK.IIB English plane
+Have fun !
+
+Crédit's : Vans123 / Elope / Yoha & GTAEU-mods / SkylineGTRFreak
+
+Retextured by: NrdzHayden 
